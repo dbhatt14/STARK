@@ -1,0 +1,25 @@
+int d = 5;
+if(d>3)
+{
+display d;
+    if (d==4)
+    {
+        display 4;
+    }
+    else
+    {
+        display 10;
+    }
+}
+else
+{
+    display 2;
+    if (false)
+    {
+        display 6;
+    }
+    else
+    {
+        display 9;
+     }
+}
