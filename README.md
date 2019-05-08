@@ -1,5 +1,7 @@
 STARK PROGRAMMING LANGUAGE
 
+Team size : 4
+
 STARK is a static, strongly typed imperative programming language. The word “Stark” means simple and powerful which are the main design goals. It is easy to learn and provides all the major features of a high level language.
 
 DELIVERABLES:
